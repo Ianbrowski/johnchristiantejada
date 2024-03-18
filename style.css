@@ -14,7 +14,7 @@ body {
     overflow: hidden;
     color:white;
     border:3px solid black; 
-    padding:50px;
+    padding:45px;
 }
 
 .player {
@@ -83,3 +83,8 @@ b{
   .custom-audio::-webkit-media-controls-timeline {
     background-color: transparent;
   }
+.highlight{
+    background-color:#efbe0a;
+    color:#062987;
+    padding:2px;
+}
